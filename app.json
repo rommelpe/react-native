@@ -1,0 +1,5 @@
+{
+  "name": "RNFirestoreDemo",
+  "displayName": "RNFirestoreDemo",
+  "expo": {"platforms": ["web"]}
+}
